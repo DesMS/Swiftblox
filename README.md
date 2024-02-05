@@ -8,4 +8,5 @@ Extreme customizability for an un-customizable game.
 * Extreme FastFlags customization and documentation
 * Custom Roblox features
 * In-app Roblox modifications, without dll injection
+* Roblox Fixes and Performance modifications
 
