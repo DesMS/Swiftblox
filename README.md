@@ -1,4 +1,5 @@
 # Swiftblox
+[![Downloads](https://img.shields.io/github/downloads/DesMS/Swiftblox/latest/total)](https://github.com/DesMS/Swiftblox/releases)
 
 Extreme customizability for an un-customizable game.
 
@@ -9,3 +10,5 @@ Extreme customizability for an un-customizable game.
 * Custom Roblox features
 * In-app Roblox modifications, without dll injection
 * Roblox Fixes and Performance modifications
+
+## 
